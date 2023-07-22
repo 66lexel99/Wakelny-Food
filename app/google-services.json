@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "816017079525",
+    "project_id": "food-63353",
+    "storage_bucket": "food-63353.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816017079525:android:abac7dfa78d35f6f6de80c",
+        "android_client_info": {
+          "package_name": "com.haider.testkotilnapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816017079525-vankt9fhhl2m5fvlq6qdoqpdgqrncm6s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQkWHmecE5ZdNJg72nScfe_3vY82Pa7qI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "816017079525-vankt9fhhl2m5fvlq6qdoqpdgqrncm6s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

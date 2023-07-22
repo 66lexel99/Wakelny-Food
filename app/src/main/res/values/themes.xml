@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.TestKotilnApp" parent="Theme.AppCompat.Light.NoActionBar">
+
+    </style>
+
+    <style name="LoginTextInputOuterFieldStyle">
+        <!-- Add your desired styles for the outer TextInputLayout here -->
+    </style>
+
+    <style name="LoginTextInputInnerFieldStyle">
+        <!-- Add your desired styles for the inner TextInputEditText here -->
+    </style>
+
+</resources>
